@@ -11,28 +11,65 @@
 
     <style>
 
+        body {
+            background-color: lightslategray;
+            background-image: url("city.jpg");
+            background-size:cover;
+            background-repeat:repeat;
+        }
+
 
         p {
             color:yellow;      
         }
         #header {
+            width:820px;
             background-color:chocolate;
             color:cornsilk;
-            padding: 40px;
+            padding:40px;
+            margin: 0 auto; 
         }
         #header h1 {
             color:blue;
         }
 
         #main {
-            background-color: black;
-            color: white;
-            padding: 10px;
-            height: 400px;
+            background-color: rgba(0, 0, 0, .5);
+            color: darkblue;
+            width:900px;
+
             border: solid 10px red;
             border-radius: 0px;
-            margin: 100px;
-            padding-left: 25px;
+            margin: 25px auto;
+            padding-left: 0;
+         }
+
+         #main div {
+            background-color:darksalmon;
+            margin: 0 auto 10px auto;
+            height: 100px;
+            width:75%;
+            overflow: auto;
+            border-radius:10px
+            }
+
+         #main div:nth-child(1) {
+             margin-top:20px;
+         }
+
+         #main div p {
+             color:ghostwhite;
+             font-size: 40px;
+             font-family: "Arial";
+             margin:20px; 
+         }
+
+         #main .odd {
+             background-color:gray;
+         }
+
+         #main .even {
+             background-color: white;
          }
 
         #footer p {
@@ -41,10 +78,10 @@
 
         #footer {
             background-color:black;
-            width: 1000px;
+            width: 900px;
             height:400xp;
-            color:olive;
-            margin:0 auto;
+            color: red;
+            margin: 0 auto;
             }
         
         #footer h6 {
@@ -60,17 +97,17 @@
         }
 
         #footer p span {
-            color:blue;
+            color:red;
             font-size:small;
         }
         
 
         #food-list {
-            list-style-type: none;
+            list-style-type:none;
             background-color:greenyellow;
             text-align:center;
-            padding:left 0;
-            width:700px;
+            padding: 0 auto;
+            width:860px;
             margin:0 auto;
         }
 
@@ -83,10 +120,10 @@
             margin:10px;
         }
 
-
-
-
-
+        #videos {
+            width:900px;
+            margin: 0 auto;
+        }
 
 
 
@@ -99,12 +136,40 @@
     <!-- HTML5 version is <header></headere> -->
     <div id="header">
         <h1>This is the title of the header area.</h1>
-        <p>This area is the first div.</p> 
+        <p>This area is the first div.</p>     
     </div>
 
     <!-- HTML5 version is <main></main> -->
     <div id="main">
-        <p>This area is the second div.</p>
+        <div class="odd">
+            <p>This area is the second div.</p>
+    </div>
+
+
+        <div class="even">
+
+
+        </div>
+
+
+        <div class="odd">
+
+
+        </div>
+        
+
+        <div class="even">
+
+
+        </div>
+
+
+        <div class="odd">
+
+
+        </div>
+
+    
     </div>
 
     <!-- HTML5 version is <footer></footer> -->
@@ -115,7 +180,7 @@
             <h6>This is a really tiny text as well!<h/6>
         </div>   
     
-        <div    
+        <div>   
             <h6>This is a really tiny text!</h6>
         </div>
     </div>    
@@ -129,6 +194,12 @@
         <li>Burgers & Fries</li>
         <li>Algae</li>
     </ul>
+
+
+
+    <div id="videos">
+        <iframe width="900" height="315" src="https://www.youtube.com/embed/_uQrJ0TkZlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </diV>
 
 
 
