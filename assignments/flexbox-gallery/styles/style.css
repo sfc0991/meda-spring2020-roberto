@@ -1,0 +1,39 @@
+body {
+    background-color: grey;
+}
+
+div#flex-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+#flex-gallery > figure {
+    background-color: lightblue;
+    padding: 15px;
+    margin: 15px;
+}
+
+figure {
+    width: 200px;
+}
+
+figure > img {
+    width:200px;
+    border-radius: 10px;
+}
+
+figure > img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+figcaption {
+    font-size: 24px;
+    text-align: center;
+    margin: 10px;
+    line-height: 30px;
+    color:olive;
+    font-style:unset;
+    font-family: "American Type Writer";
+}
