@@ -1,0 +1,154 @@
+body {
+    background-color:maroon; 
+}
+
+header, main, footer {
+    width: 900px;
+    background-color:white;
+    margin: 0 auto;
+    padding:50px;
+    font-size:36px;
+}
+
+/* HEADER STYLE BEGINS */
+
+header {
+    padding-right:0;
+    width:950px;
+}
+
+header, main {
+    border-bottom:maroon 5px solid;
+}
+
+header h1 {
+    font-family:"Zapfino";
+    font-size:48px;
+    text-align:center;
+    color:red;
+    line-height:84px;
+}
+
+#logo {
+    float:left;
+}
+
+#title-container {
+    margin-left:200px;
+}
+
+nav ul {
+    text-align:right;
+}
+
+nav ul li {
+    display:inline-block;
+    background-color:red;
+    color:white;
+    padding:12px;
+    margin-top:25px;
+    text-transform:uppercase;
+    font-family:"Arial";
+}
+
+nav ul li:hover {
+    background-color:blue;
+}
+
+nav ul li a {
+    text-decoration:none;
+}
+
+nav ul li a:link {
+    color:white;
+}
+
+nav ul li a:visited {
+    color:white;
+}
+
+nav ul li a:hover {
+    text-decoration:underline orange;
+}
+
+nav ul li a:active {
+    color:purple;
+}
+
+/* HEADER STYLES END */
+
+/* FOOTER STYLES START */
+
+footer {
+    color:maroon;
+    font-family:"Arial";
+    line-height:40px;
+}
+
+#copyright {
+    text-transform:uppercase;
+    text-align:center; 
+    font-size:10px;
+}
+
+#social-links ul {
+    text-align:center;
+    margin-bottom:20px;
+
+}
+#social-links ul li {
+    display:inline-block;
+    border:solid 1px red;
+    border-radius:10px;
+    padding: 0;
+}
+
+#social-links ul li a {
+    display:block;
+    padding:8px;
+}
+#social-links ul li {
+    line-height:100px;
+    box-sizing:border-box;
+}
+
+/*
+#social-links ul li:hover {
+    color:blue;
+    background-color:maroon;
+} */
+
+#social-link ul li a {
+    text-decoration:none;
+    color: purple;
+}
+
+#social-links ul li a:visited {
+    color:red;
+}
+
+#social-links ul li a:hover {
+    color:white;
+    background-color:red;
+}
+
+/* FOOTER STYLES END */
+
+/* MAIN DEFAULT STYLES START */
+
+main {
+    font-family:"Arial";
+    color:gray;
+}
+
+main h1 {
+    font-size:48px;
+    text-align:center;
+    text-transform:uppercase;
+}
+
+main p {
+    font-size:24px;
+}
+
+/* MAIN DEFAULT ENDS */
