@@ -44,7 +44,7 @@ nav ul {
 nav ul li {
     display:inline-block;
     background-color:red;
-    color:white;
+    color:gray;
     padding:12px;
     margin-top:25px;
     text-transform:uppercase;
@@ -97,15 +97,15 @@ footer {
 
 }
 #social-links ul li {
-    display:inline-block;
-    border:solid 1px red;
+    display:inline-flex;
+    border:solid 1px blue;
     border-radius:10px;
     padding: 0;
 }
 
 #social-links ul li a {
     display:block;
-    padding:8px;
+    padding:10px;
 }
 #social-links ul li {
     line-height:100px;
@@ -124,12 +124,12 @@ footer {
 }
 
 #social-links ul li a:visited {
-    color:red;
+    color:maroon;
 }
 
 #social-links ul li a:hover {
     color:white;
-    background-color:red;
+    background-color:gray;
 }
 
 /* FOOTER STYLES END */
@@ -138,13 +138,16 @@ footer {
 
 main {
     font-family:"Arial";
-    color:gray;
+    color:maroon;
 }
 
 main h1 {
+    font-family:"Zapfino";
     font-size:48px;
     text-align:center;
-    text-transform:uppercase;
+    line-height:100px;
+    margin:30px;
+    /* text-transform:uppercase; */
 }
 
 main p {
@@ -152,3 +155,56 @@ main p {
 }
 
 /* MAIN DEFAULT ENDS */
+
+/* HOMEPAGE STYLE SARTS */
+
+main#homepage p {
+    margin:20px;   
+    line-height:30px;
+    text-align:justify;
+}
+
+
+
+
+
+/* HOMEPAGE STYLE ENDS */
+
+/* GALLERY STYLE STARTS */
+
+/* FLEX lines the pictures up */
+#gallery {
+    display:flex; 
+    flex-wrap:wrap;
+    justify-content:space-between;
+}
+
+#gallery div {
+    width:200px;
+}
+
+#gallery div img {
+    width:200px;
+    margin-top:20px;
+}
+
+/* GALLERY STYLE ENDS */
+
+/*CONTACT STLYLE STARTS*/
+
+#contact-flexbox {
+    display:flex;
+    height:300px;
+}
+
+#contact-flexbox div:first-child {
+    flex-grow:3;
+    background-color:mediumaquamarine;
+}
+
+#contact-flexbox div:last-child {
+    flex-grow:1;
+    background-color: maroon;
+}
+
+/* CONTACT STYLE ENDS*/
