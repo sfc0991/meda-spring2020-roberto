@@ -1,5 +1,5 @@
 body {
-    background-color:maroon; 
+    background-color:black; 
 }
 
 header, main, footer {
@@ -18,14 +18,14 @@ header {
 }
 
 header, main {
-    border-bottom:maroon 5px solid;
+    border-bottom:black 5px solid;
 }
 
 header h1 {
     font-family:"Zapfino";
     font-size:48px;
     text-align:center;
-    color:red;
+    color:black;
     line-height:84px;
 }
 
@@ -43,8 +43,8 @@ nav ul {
 
 nav ul li {
     display:inline-block;
-    background-color:red;
-    color:gray;
+    background-color:lightgrey;
+    color:lightgrey;
     padding:12px;
     margin-top:25px;
     text-transform:uppercase;
@@ -80,7 +80,7 @@ nav ul li a:active {
 /* FOOTER STYLES START */
 
 footer {
-    color:maroon;
+    color:black;
     font-family:"Arial";
     line-height:40px;
 }
@@ -115,7 +115,7 @@ footer {
 /*
 #social-links ul li:hover {
     color:blue;
-    background-color:maroon;
+    background-color:black;
 } */
 
 #social-link ul li a {
@@ -124,7 +124,7 @@ footer {
 }
 
 #social-links ul li a:visited {
-    color:maroon;
+    color:black;
 }
 
 #social-links ul li a:hover {
@@ -138,12 +138,12 @@ footer {
 
 main {
     font-family:"Arial";
-    color:maroon;
+    color:black;
 }
 
 main h1 {
     font-family:"Zapfino";
-    font-size:48px;
+    font-size:30px;
     text-align:center;
     line-height:100px;
     margin:30px;
@@ -192,19 +192,61 @@ main#homepage p {
 
 /*CONTACT STLYLE STARTS*/
 
+#contact hr {
+    border:dotted 2px black;
+}
+
 #contact-flexbox {
     display:flex;
-    height:300px;
 }
 
 #contact-flexbox div:first-child {
     flex-grow:3;
-    background-color:mediumaquamarine;
 }
 
 #contact-flexbox div:last-child {
     flex-grow:1;
-    background-color: maroon;
+}
+
+#contact-form {
+    width:400px;
+    margin:20px;
+}
+
+#contact-form label {
+    font-size:24px;
+}
+#contact-form input {
+    border:solid 5px black;
+    width:400px;
+    height:50px;
+    border-radius:15px;
+    box-sizing:border-box;
+    font-size:20px;
+    color:black;
+    padding-left:11px;
+}
+#contact-form .form-buttons {
+    margin:20px;
+    color:black;
+    font-size:15px;
+    width:360px;
+}
+
+#contact-form .form-buttons:hover {
+    border:solid blue 5px;
+    cursor:crosshair;
+}
+
+#contact-form textarea {
+    border: solid 5px black;
+    border-radius:15px;
+    width:100%;
+    height:50px;
+    box-sizing:border-box;
+    padding:11px;
+    font-size: 18px;
+    color:black;
 }
 
 /* CONTACT STYLE ENDS*/
