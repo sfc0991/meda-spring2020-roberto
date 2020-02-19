@@ -1,0 +1,98 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2511
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue233;\red0\green0\blue0;\red17\green0\blue231;
+}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c93333;\cssrgb\c0\c0\c0;\cssrgb\c9689\c9755\c92705;
+}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 BACKGROUND-COLOR: WHITE\
+\'97I\'92m choosing white as my background color because i wanted something simple and subtle.\
+\
+COLOR TEXT:  BLACK\
+\
+HEADER-BACKGROUND: LIGHTSLATEGRAY\
+\'97I\'92m going with a clean subtle gray header background because i wanted to keep a simple look.\
+\
+FOOTER COLOR: LIGHTSLATEGRAY\
+\'97I\'92m choosing the same color as background color to keep a clean aesthetic.\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx10800\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+\
+ABOUT ME:	\
+\
+	My name is Roberto Escobar, from San Francisco California but originally from Peru, i come from from an immigrant family, parents arrived in the United States in the late 90\'92s looking for better opportunities as many other families do. I arrived in August of 2001, coming here as a 10 year old kid was a lot for me to handle at times, i would feel out of place and there was the language barrier, i didn\'92t know how to speak english at all. Thankfully i had a great support system at school and at home and that helped me get through all the tough times i had. \
+\
+	I\'92d describe myself as a hardworking person, passionate and always eager to learn something new. I\'92m currently working in the service industry as a bartender, i have been doing it for over 5 years and i really enjoy it. I always make sure that i give the best service possible and ensure that all my guests are enjoying themselves and having a good time. As much as i enjoy bartending i\'92ve always been interested in programming and the tech industry as a whole. My goal is to become a full blown web developer and thanks to the MEDA program i was able to get my foot in the door and learn a few of the basics, the short experience i\'92ve had so far has been great and it\'92s amazing to me how much more computers can do rather than perform simple tasks like surfing the web or playing games. I\'92m excited for what\'92s to come and the challenges that lay ahead, i know transitioning into web developing won\'92t be easy but it\'92s a challenge that i\'92m willing to take on in order for me to succeed.\
+\
+\
+\
+\
+PORTFOLIO EXAMPLES:\
+\
+\pard\pardeftab720\sl280\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "http://seanhalpin.io/"}}{\fldrslt 
+\f1 \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 \outl0\strokewidth0 \strokec2 http://seanhalpin.io/}}
+\f1 \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 \outl0\strokewidth0 \strokec2 \
+
+\f0\fs26 \cf3 \ulnone \strokec4 -
+\fs24 I like the color combination he used, looks very clean.\
+-I like the illustrations he has on his page.\
+-I like how easy it is to navigate through his portfolio page.
+\f1 \
+\
+\
+\pard\pardeftab720\sl280\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.loungelizard.com/"}}{\fldrslt \cf2 \ul \ulc2 \strokec2 https://www.loungelizard.com/}}\cf2 \ul \ulc2 \strokec2 \
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f0 \cf0 \kerning1\expnd0\expndtw0 \ulnone \outl0\strokewidth0 -I really like the animation he uses as his header and the music that goes along with it.\
+-I like the color combination used.\
+-I like how the previous projects are displayed. \
+\
+-I don\'92t really like how in the homepage, everything sort of feels a bit cramped together, i feel the text font is a bit too big too.\
+\
+\
+\pard\pardeftab720\sl280\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://builtbybuffalo.com/"}}{\fldrslt 
+\f1 \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 \outl0\strokewidth0 \strokec2 https://builtbybuffalo.com/}}
+\f1 \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 \outl0\strokewidth0 \strokec2 \
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f0 \cf0 \kerning1\expnd0\expndtw0 \ulnone \outl0\strokewidth0 -I really enjoy this portfolio the most, mainly the way everything is styled.\
+-I like the way they styled projects they\'92ve worked on, in some sort of beehive looking thing.\
+-I like the way they used logos on their contact page.\
+\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+}
