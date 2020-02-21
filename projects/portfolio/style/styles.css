@@ -1,0 +1,40 @@
+body {
+    background-image: url("road.jpg");
+}
+
+div#flex-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: column-wrap;
+    align-items: flex-start;
+    height: 820px;
+    justify-content: space-evenly;
+}
+
+#flex-gallery > figure {
+    background-color: lightblue;
+    padding: 15px;
+}
+
+figure {
+    width: 200px;
+}
+
+figure > img {
+    width:200px;
+    border-radius: 10px;
+}
+
+figure > img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+figcaption {
+    font-size: 24px;
+    text-align: center;
+    margin: 10px;
+    line-height:
+    font-style:
+    font-family: 
+}

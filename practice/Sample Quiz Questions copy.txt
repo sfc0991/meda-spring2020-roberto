@@ -1,0 +1,32 @@
+In one sentence, explain what Git is?
+-SAVE AND SHARE WORK, VERSION CONTROL.
+
+Write these commands in order: git commit, git push, git add.
+-GIT ADD GIT COMMIT GIT PUSH.
+
+When you go to a website, what is the filename of the web page that normally loads by default?
+-THE DEFAULT FILE THAT GETS LOADED IS INDEX.HTML.
+
+The syntax of CSS is easy, but what makes CSS difficult?
+-THE CASCADING EFFECT, PROPERTIES OVERWRITE OTHER PROPERTIES,SELECTING DIFFERENT ELEMENTS.
+
+How many direct children should the html tag have?
+-2 HEAD AND BODY
+
+What is a difference between a text editor and a code editor?
+-TEXT EDITOR IS 
+
+Is HTML a programming language?
+-NO, ITS A MARKUP LANGUAGE THAT IS INTERPRETED. NO LOGIC A LANGUAGE.
+
+Can you use the CSS language on its own? Explain.
+-NO, YOU CANNOT. YOU NEED A INDEX.HTML FILE, CSS DEPENDS ON HTML.
+
+When you create a div, what do you need to make it visible on the webpage?
+-YOU CAN USE A BACKGROUND COLOR OR YOU CAN GIVE IT A BORDER. IF IT HAS NO CONTENT, IT WILL HAVE A HEIGHT OF 0 SO THAT MEANS YOU'D HAVE TO GIVE IT A BORDER OR BACKGROUND COLOR TO SEE IT IN THE WEBPAGE.
+
+What is the HTML hyperlink element?
+-IT'S THE ANCHOR OR THE <a></<a> ELEMENT.
+
+
+"HEADER" IS A SPECIAL DIV FOR THE LAYOUT, "H1" IS A HEADING, TEXT LAYOUT, "HEAD" IS INFORMATION ABOUT THE WEBPAGE.
