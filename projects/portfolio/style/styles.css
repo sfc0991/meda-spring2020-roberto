@@ -1,7 +1,61 @@
 body {
-    background-color:lightgoldenrodyellow;
+    background-color:white;
 }
 
+header {
+    margin-top:100px;
+    background-color:lightslategray ;
+    text-align: center;
+    padding:10px;
+}
+
+nav ul li {
+    display:inline-block;
+    background-color:white;
+    color:lightslategray;
+    padding:10px;
+    margin-top:15px;
+    margin-block-end: 50px;;
+    text-transform:uppercase;
+}   
+
+nav ul{
+    text-align: center;
+    padding-inline-start: 0px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Poppins|Roboto&display=swap');
+
+h1 {
+    font-family:'Poppins', 'Times New Roman', serif;
+}
+
+p {
+    font-family:'Roboto', 'Arial', sans-serif;
+}
+
+#copyright {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 10px;
+}
+
+main h1{
+    text-align:center;
+    padding-inline-start: 0px;
+}
+
+#aboutme div img{
+    padding-left:10px;
+    width:200px;
+}
+
+
+
+
+   
+
+/**
 div#flex-gallery {
     display: flex;
     flex-wrap: wrap;
@@ -38,3 +92,4 @@ figcaption {
     font-style:
     font-family: 
 }
+**/
