@@ -45,6 +45,10 @@ console.log(rounded);
 // Round up.
 var roundedUp = Math.ceil(45.1);
 
+//general rule is you use let when you use var
+let someVariable = ;
+const FIXEDVARIABLE = "something;"
+
 // Round down.
 var roundedDown = Math.floor(45.9); 
 
@@ -59,3 +63,22 @@ var roundedRandomNumber = Math.floor(someNumber);
 
 // Print random rumber.
 console.log(roundedRandomNumber);
+
+// Defining multiple variables.
+var variableA, variableB;
+
+// Defining multiple variables as well as assigning values.
+var variable = "10", variable2 = 100, variable3 = true;
+
+console.log(variable2);
+
+// Caling before Defining.
+console.log(howAreYou);
+var howAreYou = "Hello";
+// You will get Undefined.
+
+var coolVariable = howAreYou = 100;
+
+console.log(coolVariable);
+
+variable = coolVariable;
