@@ -38,6 +38,7 @@ p {
     text-transform: uppercase;
     text-align: center;
     font-size: 10px;
+    margin-top: 50px;
 }
 
 main h1{
@@ -47,49 +48,23 @@ main h1{
 
 #aboutme div img{
     padding-left:10px;
-    width:200px;
+    width:250px;
+    padding-left:500px;
 }
 
 
 
-
-   
-
-/**
-div#flex-gallery {
-    display: flex;
-    flex-wrap: wrap;
-    flex-flow: column-wrap;
-    align-items: flex-start;
-    height: 820px;
-    justify-content: space-evenly;
+#contact-info {
+    width:400px;
+    margin:20px;
+    padding-left: 500px;
 }
 
-#flex-gallery > figure {
-    background-color: lightblue;
-    padding: 15px;
+#projects {
+    width:400px;
+    margin:20px;
+    padding-left: 500px;
 }
 
-figure {
-    width: 200px;
-}
 
-figure > img {
-    width:200px;
-    border-radius: 10px;
-}
 
-figure > img {
-    width: 200px;
-    border-radius: 10px;
-}
-
-figcaption {
-    font-size: 24px;
-    text-align: center;
-    margin: 10px;
-    line-height:
-    font-style:
-    font-family: 
-}
-**/

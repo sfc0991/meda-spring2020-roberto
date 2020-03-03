@@ -9,7 +9,8 @@ Math.random ();
 var currentTime = Date.now().toString();
 console.log(currentTime);
 
-// A function taht belongs to a class ("library") is called a "Method".
+// Functions are a mini program, a reusable mini program.
+// A function that belongs to a class ("library") is called a "Method".
 // A variable tht belongs to a class ("Library") is called a "Property".
 
 

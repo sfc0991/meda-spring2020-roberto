@@ -7,7 +7,7 @@ function myFunction (message, times) {
 
 //Calling a Function
 myFunction (1000, 3);
-// You can calla function as many times as you want
+// You can call a function as many times as you want
 myFunction ();
 myFunction ();
 myFunction ();

@@ -10,7 +10,7 @@
 
 
 
-function sentenceBuilder (person, place, action, item) {
+function sentenceBuilder(person, place, action, item) {
     var firstPart = " went to ";
     var secondPart = ", and ";
     var thirdPart = " but there was a problem, ";
